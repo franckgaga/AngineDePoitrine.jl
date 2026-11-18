@@ -1,6 +1,6 @@
-using MyPkg
+using AngineDePoitrine
 using Test
 
-@testset "MyPkg.jl" begin
-    # Write your tests here.
+@testset "AngineDePoitrine.jl" begin
+    @test pythagore(3, 4) ≈ √25  
 end
