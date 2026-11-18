@@ -1,7 +1,7 @@
-name = "MyPkg"
+name = "AngineDePoitrine"
 uuid = "929c4c8d-8aba-46ea-8d2d-006a0b8878af"
 authors = ["franckgaga <franckgaga2@gmail.com> and contributors"]
-version = "1.0.0-DEV"
+version = "0.0.1"
 
 [compat]
 julia = "1.10.10"
