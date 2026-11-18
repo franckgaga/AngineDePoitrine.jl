@@ -2,6 +2,6 @@ module AngineDePoitrine
 
 using LinearAlgebra
 
-pythagore(a, b) = sqrt(a²+b²)
+pythagore(a, b) = hypot(a, b)
 
-end
+end # module AngineDePoitrine
